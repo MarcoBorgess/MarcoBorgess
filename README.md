@@ -3,7 +3,6 @@
 ## I'm a Software Engineer Student!!
 
 - 📚 I’m currently learning everything 🤣
-- 👨‍💻 I’m available for freelances jobs
 - 👨‍🎓 2021 Goals: Contribute more to my portfolio
 - ⚡ Fun fact: I love to watch Formula 1
 
