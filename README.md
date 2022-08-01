@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer Student!!
 
-- 📚 I’m currently learning Flutter
+- 📚 I’m currently learning Python
 - 👨‍🎓 2022 Goals: Contribute more to my portfolio
 - ⚡ Fun fact: I love to watch Formula 1
 
