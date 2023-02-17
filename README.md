@@ -6,9 +6,12 @@
 - 👨‍🎓 2023 Goals: Contribute more to open-source projects
 - ⚡ Fun fact: I love to watch Formula 1
 
-[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoBorgess&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/MarcoBorgess/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBorgess&layout=compact&theme=merko)]([https://github.com/anuraghazra/github-readme-stats)](https://github.com/MarcoBorgess/)
+<a href="https://github.com/MarcoBorgess/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoBorgess&count_private=true&show_icons=true&theme=merko&include_all_commits=true" />
+</a>
+<a href="https://github.com/MarcoBorgess/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBorgess&layout=compact&theme=merko)]([https://github.com/MarcoBorgess/" />
+</a>
 
 ### Connect with me:
 
