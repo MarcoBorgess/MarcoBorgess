@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoBorgess)](https://github.com/MarcoBorgess/)
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoBorgess&count_private=true&show_icons=true&theme=merko)](https://github.com/MarcoBorgess/)
 
 ### Languages and Tools:
 
