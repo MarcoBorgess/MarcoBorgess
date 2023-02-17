@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer Student!!
 
-- 📚 I’m currently learning Python
-- 👨‍🎓 2022 Goals: Contribute more to my portfolio
+- 📚 I’m currently working with .NET Core C#
+- 👨‍🎓 2023 Goals: Contribute more to open-source projects
 - ⚡ Fun fact: I love to watch Formula 1
 
 ### Connect with me:
@@ -13,6 +13,8 @@
 [<img align="left" alt="MarcoBorgess | Instagram" width="32px" src="https://www.svgrepo.com/show/134478/instagram.svg" />][instagram]
 
 <br/>
+
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoBorgess)](https://github.com/MarcoBorgess/)
 
 ### Languages and Tools:
 
