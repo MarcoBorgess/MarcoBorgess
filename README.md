@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoBorgess&count_private=true&show_icons=true&theme=merko&include_all_commits=true" />
 </a>
 <a href="https://github.com/MarcoBorgess/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBorgess&layout=compact&theme=merko)]([https://github.com/MarcoBorgess/" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBorgess&layout=compact&count_private=true&show_icons=true&theme=merko&include_all_commits=true)]([https://github.com/MarcoBorgess/" />
 </a>
 
 ### Connect with me:
