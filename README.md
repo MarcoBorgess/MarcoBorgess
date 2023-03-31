@@ -4,7 +4,7 @@
 
 - 📚 I’m currently working with .NET Core C#
 - 👨‍🎓 2023 Goals: Contribute more to open-source projects
-- ⚡ Fun fact: I love to watch Formula 1
+- ⚡ Fun fact: I love watching Formula 1
 
 ###
 
